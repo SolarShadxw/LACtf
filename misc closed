@@ -23,3 +23,15 @@ This following site seemed like a good starting point: https://www.timeout.com/c
 
 While scanning through the parks, some of them didnt have rock formations like we could see in the picture
 
+Eventually I came across good ol Point Lobo, where a big indicator was that it was known for its coastline trails 
+So off we got to consult google maps, and scanning the area for a formation as seen in the picture 
+
+AND BOOM, there is a rock formation that looks just like the one we need, and zooming in we see that the color matches as well 
+After some more confirmations, and looking around some more, I tapped on the bottom left corner twice to pull up precise lat and longitudes
+AAAAAnd it didnt work. How could this be? I rounded to the thousandths... 
+
+And here is where the magic happens, the key with challenges is reading. 
+
+I had a space after the comma. Womp Womp 
+
+And there we go, we ended up with the flag being flag(36.516,-121.949)
